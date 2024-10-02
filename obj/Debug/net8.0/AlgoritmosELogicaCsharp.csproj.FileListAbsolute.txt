@@ -1,0 +1,14 @@
+C:\AlgoritmosELogicaCsharp\bin\Debug\net8.0\AlgoritmosELogicaCsharp.exe
+C:\AlgoritmosELogicaCsharp\bin\Debug\net8.0\AlgoritmosELogicaCsharp.deps.json
+C:\AlgoritmosELogicaCsharp\bin\Debug\net8.0\AlgoritmosELogicaCsharp.runtimeconfig.json
+C:\AlgoritmosELogicaCsharp\bin\Debug\net8.0\AlgoritmosELogicaCsharp.dll
+C:\AlgoritmosELogicaCsharp\bin\Debug\net8.0\AlgoritmosELogicaCsharp.pdb
+C:\AlgoritmosELogicaCsharp\obj\Debug\net8.0\AlgoritmosELogicaCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\AlgoritmosELogicaCsharp\obj\Debug\net8.0\AlgoritmosELogicaCsharp.AssemblyInfoInputs.cache
+C:\AlgoritmosELogicaCsharp\obj\Debug\net8.0\AlgoritmosELogicaCsharp.AssemblyInfo.cs
+C:\AlgoritmosELogicaCsharp\obj\Debug\net8.0\AlgoritmosELogicaCsharp.csproj.CoreCompileInputs.cache
+C:\AlgoritmosELogicaCsharp\obj\Debug\net8.0\AlgoritmosELogicaCsharp.dll
+C:\AlgoritmosELogicaCsharp\obj\Debug\net8.0\refint\AlgoritmosELogicaCsharp.dll
+C:\AlgoritmosELogicaCsharp\obj\Debug\net8.0\AlgoritmosELogicaCsharp.pdb
+C:\AlgoritmosELogicaCsharp\obj\Debug\net8.0\AlgoritmosELogicaCsharp.genruntimeconfig.cache
+C:\AlgoritmosELogicaCsharp\obj\Debug\net8.0\ref\AlgoritmosELogicaCsharp.dll
